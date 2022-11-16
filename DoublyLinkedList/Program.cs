@@ -22,6 +22,10 @@ namespace DoublyLinkedList
         {
             START = null;
         }
+        public void addNode() /*Adds a new node*/
+        {
+
+        }
     }
 
     class Program
