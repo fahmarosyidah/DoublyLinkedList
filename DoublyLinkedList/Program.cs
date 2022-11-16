@@ -18,6 +18,10 @@ namespace DoublyLinkedList
     class DoubleLinkedList
     {
         Node START;
+        public DoubleLinkedList()
+        {
+            START = null;
+        }
     }
 
     class Program
