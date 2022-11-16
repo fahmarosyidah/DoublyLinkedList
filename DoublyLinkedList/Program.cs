@@ -17,7 +17,7 @@ namespace DoublyLinkedList
 
     class DoubleLinkedList
     {
-
+        Node START;
     }
 
     class Program
